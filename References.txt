@@ -1,0 +1,22 @@
+The assignment source code consists of:
+1. preprocess_dataset.cpp (this outputs text file dataset_preprocessed.txt)
+2. probability calculation.cpp (this outputs text file counts.txt)
+3. anagram.cpp (this is the main file which outputs top k anagrams)
+
+The following are the internet open source references that I have 
+used to help me complete the assignment logically and also some for
+implementing the helper functions. 
+
+References for Dijkstra's algorithm implementation: 
+
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-stl/
+https://vimeo.com/122950208
+http://www.cplusplus.com/reference/queue/priority_queue/
+
+References for brute force helper functions: 
+
+http://www.cplusplus.com/reference/algorithm/next_permutation/
+https://www.programiz.com/cpp-programming/examples/factorial
+
+References for sorting hashmap: 
+https://www.geeksforgeeks.org/sorting-a-map-by-value-in-c-stl/
